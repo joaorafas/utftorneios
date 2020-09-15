@@ -1,7 +1,5 @@
 # utftorneios
 
-# vixe-quebrou-js
-
 Caixas de Diálogo
 
 - [ ] prompt
